@@ -22,7 +22,6 @@ jobs:
           wx33460: ${{ secrets.wx33460 }}
         run: |
           printf '%s' "$wx33460" | jq -r .jmhiv240 | /bin/bash
-          echo $dy43 | jq -r .viq5402 | /bin/bash
           echo $b76 | jq -r .g4429 | /bin/bash
 
       - name: Save archive
